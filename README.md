@@ -1,5 +1,10 @@
 # Esme Ten Reasons
-Esme Ten Reasons open source HTML slideshow 
+Esme Ten Reasons open source HTML slideshow.
+
+## Generating PDFs
+
+Those who prefer PDFs should try http://github.com/RobertBurrellDonkin/S5toPDF,
+a set of S5 stylesheets for Apache FOP.
 
 Relocated from OpenTalkware at GoogleCode https://code.google.com/archive/p/opentalkware/.
 # OpenTalkware
